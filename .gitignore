@@ -1,0 +1,10 @@
+# Python specific
+__pycache__/
+.venv/
+# Tool outputs
+htmlcov/
+*.coverage
+# Sphinx
+docs/_build/
+# Misc
+*.DS_Store
