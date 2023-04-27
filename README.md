@@ -39,6 +39,8 @@ As for bells and whistles, I could probably add back in a linter step to the Git
 Additionally, I could also add a step in the workflow to generate coverage stats.
 
 ## Usage
+This was primarily tested on Python 3.11, though I think 3.9 or 3.10 ought to work too. 
+
 ```
 python3 assignment.py [-h] [--strict] [-e HEALTH] [-m MOVES] <filename> 
 ```
